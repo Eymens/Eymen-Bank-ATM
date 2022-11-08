@@ -1,5 +1,5 @@
 # Eymen Bank ATM Project
-The aim of the project is to build an ATM by using Account Number,Password,and bank account.
+The aim of the project is to build an ATM by using Account Number,Password,and bank account.\
 The project allows users to deposit,withdraw and view their account balance.
 
 ## How to Run the Code
