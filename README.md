@@ -12,7 +12,7 @@ Node js
 Step 1. Download all 3 code files\
 Step 2. Either use your Java IDE e.g. Eclipse ,InteliJ or NetBeans\
 Step 3. Open the project from the file menu or copy all the files to project folder.\
-Step 3. In command prompt run command: java ATM\
+Step 4. In command prompt run command: java ATM
 
 ## How to Use
 Step 1. Create account by setting username and password\
