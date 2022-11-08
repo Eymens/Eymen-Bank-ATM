@@ -16,7 +16,7 @@ Admin 2 : username: eymen@gmail.com , password : eymen , balance : 100.000.000,0
 
 ### You can create a new account
 Create account by setting username and password\
-login with created account credentials
+Login with created account credentials
 
 
 ## Requirements
