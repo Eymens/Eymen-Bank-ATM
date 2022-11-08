@@ -11,8 +11,8 @@ Step 4. In command prompt run command: java ATM
 ## How to Use
 
 ### You can use predefined user details below.
-Admin 1 : username: admin@gmail.com , password : root , balance : 1000 TL
-Admin 2 : username: eymen@gmail.com , password : eymen , balance : 100000000 TL
+Admin 1 : username: admin@gmail.com , password : root , balance : 1000 TL\
+Admin 2 : username: eymen@gmail.com , password : eymen , balance : 100000000 TL\
 
 ### You can create a new account
 Create account by setting username and password\
