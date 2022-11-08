@@ -20,9 +20,9 @@ Login with created account credentials
 
 
 ## Requirements
-Java 19
-intellij Idea Ultimate
-Visual Studio Code
+Java 19\
+intellij Idea Ultimate\
+Visual Studio Code\
 Node js
 
 
