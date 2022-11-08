@@ -1,0 +1,34 @@
+
+// kasa: 1000 TL
+// Switch case
+// static 
+// method kullanın 
+// NOT: her bir işlem dosyaya yazılsın(Loglama)
+
+// Login: username:admin@gmail.com password:root  
+// kullanıcı sistemdeki bilgileri dorğu girmediği süre zarfında 3 hakkından azaltarak
+// 3 yanlış girişte hesap bloke olsun(System.exit(0))
+
+// Customer class oluşturalım ( username,password,image, para )
+//Eğer sistemdeki bilgileri klavyeden doğru girersem aşağıdaki seçenerkler çıksın yoksa çıkmasın
+
+// 0-) para görüntüle
+// 1-) Para yatıracağız (eğer paramız 0 ise para eklememiz zorlasın)
+// 2-) Para çekeceğim
+// 3-) Havale yapacağım  (Fake Mail() göndersin)
+// 4-) EFT yapabileceğim (Fake Mail() göndersin)
+// 5-) Fake Mail()
+// 6-) Çıkış
+
+// inheritance
+// abstract
+// interface
+// enum
+// static
+// String metotları
+// StringBuilder
+// StringTokenizer
+// Math
+// Class üzerinden
+// Diziler
+// collection (List,Set,Map)
